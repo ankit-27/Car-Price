@@ -26,7 +26,6 @@ Pygments==2.10.0
 pyparsing==3.0.6
 python-dateutil==2.8.2
 pytz==2021.3
-pywin32==302
 pyzmq==22.3.0
 scikit-learn==1.0.1
 scipy==1.7.2
@@ -39,3 +38,4 @@ tomli==1.2.2
 tornado==6.1
 traitlets==5.1.1
 wcwidth==0.2.5
+pypiwin32
